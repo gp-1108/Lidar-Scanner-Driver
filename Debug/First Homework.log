@@ -1,10 +1,6 @@
-﻿  First Homework.cpp
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\LaserScannerDriver.h(34,84): warning C4227: anachronism used: qualifiers on reference are ignored
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\First Homework.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\First Homework.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\First Homework.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\First Homework.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+﻿  main.cpp
+C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
   LaserScannerDriver.cpp
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\LaserScannerDriver.h(34,84): warning C4227: anachronism used: qualifiers on reference are ignored
   Generating Code...
   First Homework.vcxproj -> C:\Users\pietr\Documents\Lab di Programmazione\First Homework\Debug\First Homework.exe
