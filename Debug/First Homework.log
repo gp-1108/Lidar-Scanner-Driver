@@ -1,6 +1,4 @@
 ﻿  main.cpp
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
-  LaserScannerDriver.cpp
-  Generating Code...
+C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pietr\Documents\Lab di Programmazione\First Homework\main.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
   First Homework.vcxproj -> C:\Users\pietr\Documents\Lab di Programmazione\First Homework\Debug\First Homework.exe
